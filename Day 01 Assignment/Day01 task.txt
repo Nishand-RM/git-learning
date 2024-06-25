@@ -1,0 +1,23 @@
+1. Difference between HTTP 1.1 / HTTP 2 ?
+
+--> By first HTTP stands for (Hyper Text Transfer Protocol),which helps to establish a communication between computer and server
+    to send and receive information.
+--> The first version of HTTP created is HTTP/1.1 in the year of 1997.
+--> The HTTP/2 version is developed in the year 2015.
+--> What's the main difference between both version is,HTTP/2 is much faster than the HTTP/1.1 because the speed of image rendering and 
+    displaying to the browser in HTTP/2 is much faster than HTTP/1.1.
+
+2. Objects in Javascript ?
+
+--> Objects are mainly used to store value of different data types.
+--> object are made up of properties and methods.
+--> In JavaScript to create a object is done by curly braces {}.
+--> properties are used to store value of different data type, it can be of number,boolean or strings.
+--> Methods are the function and tasks,which is used inside objects to perform some operations.
+-->for eg:
+        var data ={
+            student_name : 'Vijay', class :10, Age: 16, voting_rights: False ; //properties
+            voting.function(){                                                 //methods
+                console.log(i'm not eligible to vote because of my age, ${this.age}) 
+            }
+        }
