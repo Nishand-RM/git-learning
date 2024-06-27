@@ -1,0 +1,9 @@
+1. Document Objects and Window objects?
+Window Objects:
+   --> It is the top most object and outermost element of the object hierarchy.
+   -->window object responsible for managing global variables,functions and object.
+
+Document Objects:
+    -->Each HTML document that gets loaded into a window becomes a document object.
+    -->The document contains the contents of the page.
+    --> Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page.
